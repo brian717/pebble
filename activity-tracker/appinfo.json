@@ -1,0 +1,17 @@
+{
+  "uuid": "bdd2ae45-8eac-4865-8d1e-61d2a040fe19",
+  "shortName": "activity-tracker",
+  "longName": "activity-tracker",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
